@@ -1,4 +1,4 @@
-# YMG Ads Network SDK
+# KADA Ads Network SDK
 A library for displaying ads from multiple ad networks
 
 # Installation
